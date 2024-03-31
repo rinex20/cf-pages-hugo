@@ -1,6 +1,6 @@
 baseurl: https://lmm.pages.dev
 languageCode: en-us
-theme: hugo-theme-stack
+theme: hugo-PaperMod
 paginate: 5
 title: Example Site
 
